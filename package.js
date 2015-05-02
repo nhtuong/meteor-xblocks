@@ -1,7 +1,7 @@
 Package.describe({
   name: "xblocks",
   summary: "Adds xblocks to your collection(s) of choice",
-  version: "0.1.0",
+  version: "0.0.1",
   git: "http://github.com/nhtuong/meteor-xblocks.git"
 });
 

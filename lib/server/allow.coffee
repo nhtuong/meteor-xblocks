@@ -1,3 +1,3 @@
-Asks.allow
+Xblocks.allow
 	insert: (userId, doc) ->
 		doc.owner == userId
